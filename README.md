@@ -7,4 +7,4 @@
 Other repositories available on my github are small, in class exercises worked on during my time at EDA, exercises I've done to practice my skills and those labeled Sprint-# are from the Phase-0 (at home study) part of the EDA course.
 Topics have been added to each repo for clarification also.
 
-I am currently working on some personal projects, event app and event web to practice and learn new skills. 
+I am currently working on some personal projects, [event app](https://github.com/emilyparkes/event-app) and [event web](https://github.com/emilyparkes/event-web) to practice and learn new skills. 
